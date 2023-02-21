@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - abdullahsafi
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - abdullahsafi/PeerWise_Group_Performance 
+  - abdullahsafi/COVID19_shiny_app
+  - abdullahsafi/Boston_Housing_Analysis
+  - abdullahsafi/MBTI-prediction
+  - abdullahsafi/fashionMINST-classification
+  - abdullahsafi/Pima_Dataset_Classification
+  - abdullahsafi/USYD_WAM_CALCULATOR
+  - abdullahsafi/Sydney_Cyclability_Analysis
