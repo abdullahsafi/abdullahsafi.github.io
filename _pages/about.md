@@ -13,9 +13,9 @@ profile:
     <p>Chatswood, NSW</p>
     <p>Australia</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 👋 Hi, I’m Abdullah Safi. Nice to meet you.
