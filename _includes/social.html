@@ -22,14 +22,11 @@
             {%- if site.osf_id -%}
             <a href="https:/osf.io/{{ site.osf_id }}/" title="Open Science Framework"><i class="ai ai-osf"></i></a>
             {% endif %}
-            {%- if site.research_gate_profile -%}
-            <a href="https://www.researchgate.net/profile/{{site.research_gate_profile}}/" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
+            {%- if site.linkedin_username -%}
+            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
             {% endif %}
             {%- if site.github_username -%}
             <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i></a>
-            {% endif %}
-            {%- if site.linkedin_username -%}
-            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
             {% endif %}
             {%- if site.twitter_username -%}
             <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter"><i class="fab fa-twitter"></i></a>
@@ -68,7 +65,7 @@
             <a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" title="Stackoverflow"><i class="fab fa-stack-overflow"></i></a>
             {% endif %}
             {%- if site.kaggle_id -%}
-            <a href="https://www.kaggle.com/{{ site.kaggle_id }}" title="Kaggle"><i class="fab fa-kaggle"></i></a>
+            <a href="https://www.kaggle.com/{{ site.kaggle_id }}" title="Kaggle"><i class="fab fa-kaggle" style='font-size:22px'></i></a>
             {% endif %}
             {%- if site.lastfm_id -%}
             <a href="https://www.last.fm/user/{{ site.lastfm_id }}" title="Last FM"><i class="fab fa-lastfm"></i></a>
@@ -96,4 +93,7 @@
             {% endif %}
             {%- if site.rss_icon -%}
             <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
+            {% endif %}
+            {%- if site.research_gate_profile -%}
+            <a href="https://www.researchgate.net/profile/{{site.research_gate_profile}}/" title="ResearchGate"><i class="ai ai-researchgate" style='font-size:30px'></i></a>
             {% endif %}
