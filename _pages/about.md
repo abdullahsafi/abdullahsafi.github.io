@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
-subtitle: <strong>Data Scientist</strong> @ <a href='https://www.ehealth.nsw.gov.au'>eHealth NSW</a>      •     <strong>Previously</strong><span>&#58;</span> <a href='http://scslab.net'>SCSLab</a> / <a href='https://www.iag.com.au'>IAG</a>     •     learn ⇄ imagine ⇆ build
+subtitle: <strong>Data Scientist</strong> @ <a href='https://www.ehealth.nsw.gov.au'>eHealth NSW</a>&nbsp;&nbsp;•&nbsp;&nbsp;<strong>Previously</strong><span>&#58;</span> <a href='http://scslab.net'>SCSLab</a> / <a href='https://www.iag.com.au'>IAG</a>&nbsp;&nbsp;•&nbsp;&nbsp;learn ⇄ imagine ⇆ build
 
 profile:
   align: right
