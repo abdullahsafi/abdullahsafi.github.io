@@ -5,7 +5,7 @@ permalink: /projects/
 description: a diverse collection of projects aimed at problem-solving, ranging from academic to fun and learning-oriented.
 nav: true
 nav_order: 2
-display_categories: 
+display_categories:
 horizontal: true
 ---
 
