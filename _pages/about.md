@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 👋 Hi, I’m Abdullah Safi. Nice to meet you.
 
-As a Data Scientist at [eHealth NSW](https://www.ehealth.nsw.gov.au), my focus is on developing data-driven solutions that effectively enhance systems at local and state levels for relevant agencies and non-government organizations.
+As a Data Scientist at [eHealth NSW](https://www.ehealth.nsw.gov.au), my focus is on developing data-driven solutions that effectively enhance medical systems at local and state levels for relevant agencies and non-government organizations.
 
 Recently, I earned the Bachelor of Advanced Computing (Honours Class 1) and the Bachelor of Science from the [University of Sydney](https://www.sydney.edu.au). Under the supervision of Professor Athman Bouguettaya and the [Sensors, Clouds, and Services Laboratory](http://scslab.net), my thesis project ["Unobtrusive Monitoring for In-home Quality Ageing"](projects/) was produced in collaboration with industry partners [InteliCare](https://intelicare.com.au) and [NSSN](https://www.nssn.org.au).
 
