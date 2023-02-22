@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: a collection of my projects.
+description: a diverse collection of projects aimed at problem-solving, ranging from academic to fun and learning-oriented.
 nav: true
 nav_order: 2
-display_categories:
+display_categories: 
 horizontal: true
 ---
 
@@ -27,7 +27,7 @@ horizontal: true
     </div>
   </div>
   {%- else -%}
-  <div class="grid">
+  <div class="card">
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
@@ -41,7 +41,7 @@ horizontal: true
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}

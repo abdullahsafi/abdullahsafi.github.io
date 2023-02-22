@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Unobtrusive Monitoring for In-home Quality Ageing
+description: 2022
 img: assets/img/wave-mechanics.gif
 importance: 1
 category: work
