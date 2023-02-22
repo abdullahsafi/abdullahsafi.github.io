@@ -24,6 +24,6 @@ As a Data Scientist at [eHealth NSW](https://www.ehealth.nsw.gov.au), my focus i
 
 Recently, I earned the Bachelor of Advanced Computing (Honours Class 1) and the Bachelor of Science from the [University of Sydney](https://www.sydney.edu.au). Under the supervision of Professor Athman Bouguettaya and the [Sensors, Clouds, and Services Laboratory](http://scslab.net), my thesis project ["Unobtrusive Monitoring for In-home Quality Ageing"](projects/) was produced in collaboration with industry partners [InteliCare](https://intelicare.com.au) and [NSSN](https://www.nssn.org.au).
 
-My specialisation lies in the confluence of data science and medical science, and I aspire to leverage the skills from both domains to aid in improving health outcomes for individuals in the community. I am passionate about utilizing data to facilitate the detection of diseases for early diagnosis and personalized medicine, which is an integral part of my research interests.
+My specialisation lies in the confluence of data science and medical science, and I aspire to leverage the skills from both disciplines to aid in improving health outcomes for individuals in the community. I am passionate about utilizing data to facilitate the detection of diseases for early diagnosis and personalized medicine, which is an integral part of my research interests.
 
 In my leisure time, I enjoy engaging in strategic games such as chess, basketball, and gaming.
