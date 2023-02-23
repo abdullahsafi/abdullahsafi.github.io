@@ -2,7 +2,7 @@
 layout: page
 title: Unobtrusive Monitoring for In-home Quality Ageing
 description: 2022
-img: assets/img/wave-mechanics.gif
+img: assets/img/neural-network.gif
 importance: 1
 category: work
 ---

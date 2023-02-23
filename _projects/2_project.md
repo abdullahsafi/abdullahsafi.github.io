@@ -2,7 +2,7 @@
 layout: page
 title: Critical Code App
 description: 2019
-img: assets/img/3.jpg
+img: assets/img/data-datos.gif
 importance: 2
 category: work
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: project 3
 description: 2020
-img: assets/img/7.jpg
+img: assets/img/goal-circle.gif
 redirect: https://unsplash.com
 importance: 3
 category: work

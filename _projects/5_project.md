@@ -2,7 +2,7 @@
 layout: page
 title: project 5
 description: 2021
-img: assets/img/1.jpg
+img: assets/img/gaussian-mixture-models-em-method-math.gif
 importance: 3
 category: fun
 ---
