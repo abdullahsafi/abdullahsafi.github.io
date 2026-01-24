@@ -14,9 +14,3 @@ group :jekyll_plugins do
   gem "jekyll-twitter-plugin"
   gem "jemoji"
 end
-
-group :other_plugins do
-  gem "classifier-reborn"
-  gem "feedjira"
-  gem "httparty"
-end
