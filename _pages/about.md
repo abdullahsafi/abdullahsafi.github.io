@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: learn ⇄ imagine ⇆ innovate<br><br><strong>Data Scientist</strong> @ <a href='https://www.ehealth.nsw.gov.au'>eHealth NSW</a>&nbsp;&nbsp;•&nbsp;&nbsp;<strong>Previously</strong><span>&#58;</span> <a href='http://scslab.net'>SCSLab</a> / <a href='https://www.iag.com.au'>IAG</a>
+subtitle: <strong>Lead Data Scientist</strong> @ <a href='https://www.health.nsw.gov.au'>NSW Health</a>&nbsp;&nbsp;•&nbsp;&nbsp;<strong>Previously</strong><span>&#58;</span> <a href='http://scslab.net'>SCSLab</a> / <a href='https://www.iag.com.au'>IAG</a>
 
 profile:
   align: right
